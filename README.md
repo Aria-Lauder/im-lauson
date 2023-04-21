@@ -1,7 +1,5 @@
 <p align="left"> <a href="https://twitter.com/IMLAUSON" target="blank"><img src="https://img.shields.io/twitter/follow/IMLAUSON?logo=twitter&style=for-the-badge" alt="IMLAUSON" /></a> </p>
 
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/rafaelgfirmino)
-
 ### "Hello World!" \o/ 👋
 
 My name is Lauson, welcome to my github. 
