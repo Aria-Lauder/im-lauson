@@ -4,7 +4,7 @@
 
 ### "Hello World!" \o/ 👋
 
-My name is Rafael, welcome to my github. 
+My name is Lauson, welcome to my github. 
 
 
 
