@@ -7,10 +7,12 @@ My name is Lauson, welcome to my github.
 <br>
 
 ## 💼 Skills
-1. 熟悉数据结构与算法以及计算机网络等计算机基础知识。
-2. 熟悉  **Go、Java** 语⾔基础及其相关⽣态,熟悉 **Gin** ，**Beego** 相关框架生态。
-3. 熟悉后端常用开源中间件 **Kafka**，**Redis** 以及 **RPC** 框架，能够结合相关技术实现项目。
-4. 熟悉 **Linux** 下应用的开发部署及维护能力，**Docker** 容器操作及 **DockerFile** 的编写。
-5. 熟悉关系型数据库 **MySQL** 的基本原理，具备⼀定的数据库设计和优化经验。
-6. 熟悉后端微服务和分布式设计模式。
-7. 有良好的API文档编写习惯和能力。
+Familiar with data structures and algorithms, computer networks and other computer basics.
+Familiar with Go, Java language base and its related state, familiar with Gin, Beego related framework ecology.
+Familiar with Kafka, Redis and RPC frameworks, and be able to implement projects with related technologies.
+Familiar with the development and deployment of Linux applications and maintenance capabilities, Docker container operation and DockerFile writing.
+Familiar with the basic principles of relational database MySQL, with some experience in database design and optimization.
+Familiar with back-end microservices and distributed design patterns.
+Good API documentation habits and skills.
+
+Translated with www.DeepL.com/Translator (free version)
