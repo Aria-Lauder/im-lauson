@@ -1,10 +1,11 @@
+<h1 align="center">Hello everyone! Welcome to my github. \o/ 👋</h1>
+
 <p align="left"> <a href="https://twitter.com/IMLAUSON" target="blank"><img src="https://img.shields.io/twitter/follow/IMLAUSON?logo=twitter&style=for-the-badge" alt="IMLAUSON" /></a> </p>
 
-### "Hello World!" \o/ 👋
-
-My name is Lauson, welcome to my github. 
-
 <br>
+<p><img style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api?username=Aria-Lauder&show_icons=true&locale=en" alt="Aria-Lauder" /></p>
+<br>
+<p><img style="width:100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aria-Lauder&" alt="Aria-Lauder" /></p>
 
 ## 💼 Skills
 1.Familiar with data structures and algorithms, computer networks and other computer basics.<br>
@@ -14,4 +15,3 @@ My name is Lauson, welcome to my github.
 5.Familiar with the basic principles of relational database MySQL, with some experience in database design and optimization.<br>
 6.Familiar with back-end microservices and distributed design patterns.<br>
 7.Good API documentation habits and skills.<br>
-
