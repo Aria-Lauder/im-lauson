@@ -3,9 +3,9 @@
 <p align="left"> <a href="https://twitter.com/IMLAUSON" target="blank"><img src="https://img.shields.io/twitter/follow/IMLAUSON?logo=twitter&style=for-the-badge" alt="IMLAUSON" /></a> </p>
 
 <br>
-<p><img style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api?username=Aria-Lauder&show_icons=true&locale=en" alt="Aria-Lauder" /></p>
+<p><img style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api?username=im-lauson&show_icons=true&locale=en" alt="im-lauson" /></p>
 <br>
-<p><img style="width:100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aria-Lauder&" alt="Aria-Lauder" /></p>
+<p><img style="width:100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-lauson&" alt="im-lauson" /></p>
 
 ## 💼 Skills
 1.Familiar with data structures and algorithms, computer networks and other computer basics.<br>
